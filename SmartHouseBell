@@ -7,7 +7,5 @@
 </head>
 <body>
   <h1>¡Alguien está en la puerta!</h1>
-  <p>Gracias por visitarnos. La cámara ha capturado una imagen para ti.</p>
-  <img src="ruta-de-la-imagen-capturada" alt="Imagen capturada">
 </body>
 </html>
